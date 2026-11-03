@@ -64,7 +64,7 @@ OSI-Explorer/
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/osi-explorer.git
+git clone https://github.com/abizz17/osi-explorer.git
 
 2. Open the project folder.
 
